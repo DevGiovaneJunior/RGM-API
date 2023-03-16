@@ -1,0 +1,15 @@
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\bin\Debug\net6.0\RgmTeste.Domain.deps.json
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\bin\Debug\net6.0\RgmTeste.Domain.dll
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\bin\Debug\net6.0\RgmTeste.Domain.pdb
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\bin\Debug\net6.0\RgmTeste.Infra.dll
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\bin\Debug\net6.0\RgmTeste.Infra.pdb
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.csproj.AssemblyReference.cache
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.AssemblyInfoInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.AssemblyInfo.cs
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.csproj.CopyComplete
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.dll
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\refint\RgmTeste.Domain.dll
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\RgmTeste.Domain.pdb
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Domain\obj\Debug\net6.0\ref\RgmTeste.Domain.dll

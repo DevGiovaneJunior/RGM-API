@@ -1,0 +1,12 @@
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\bin\Debug\net6.0\RgmTeste.Infra.deps.json
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\bin\Debug\net6.0\RgmTeste.Infra.dll
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\bin\Debug\net6.0\RgmTeste.Infra.pdb
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\RgmTeste.Infra.csproj.AssemblyReference.cache
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\RgmTeste.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\RgmTeste.Infra.AssemblyInfoInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\RgmTeste.Infra.AssemblyInfo.cs
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\RgmTeste.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\RgmTeste.Infra.dll
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\refint\RgmTeste.Infra.dll
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\RgmTeste.Infra.pdb
+C:\Users\ACT\Documents\Projects\Trampos\RgmTeste\RgmTeste.Infra\obj\Debug\net6.0\ref\RgmTeste.Infra.dll
